@@ -12,6 +12,10 @@ Secondary Color (Purple): #660066;
 Active Link Color (Light Blue): #3399ff;
 */
 
+html {
+    background-color: lavenderblush;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
